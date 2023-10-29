@@ -1,0 +1,78 @@
+.section1{
+    height: 395px;
+    
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+
+}
+.updateContainer{
+    width: 62%;
+ 
+    height: 100%;
+    align-items: centre;
+    justify-content: center;
+    padding: 15px;
+}
+
+.updateText{
+    font-size: 32px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 450;
+    margin-bottom: 30px;
+}
+
+
+.formelement{
+    display: flex;
+    margin-bottom: 9px;
+    font-size: 20px;
+    justify-content: space-between;
+}
+.lastdiv{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+.buttnn{
+    margin-right: 6px;
+    
+    width: 75px;
+    height: 39px;
+    border-radius: 7px;
+}
+.inputField{
+    margin-left: 3px;
+    padding-left: 4px;
+    border-radius: 4px;
+    width: 65%;
+}
+
+.leftContainer{
+    width: 35%;
+     
+  display: flex;
+  justify-content: center;
+
+  font-size: 54px;
+  font-style: bold;
+}
+.openclose{
+    margin-top: 90px;
+    width: 75%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cadetblue;
+    
+}
+.section2{
+    height: 500px;
+}
+.closeopen{
+    background-color: blueviolet; 
+     display: flex;
+    justify-content: center;
+    align-items: center;
+}

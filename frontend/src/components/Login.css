@@ -1,0 +1,89 @@
+*{
+    padding:0;
+    margin:0;
+}
+.body3{
+    background-image: linear-gradient(rgb(105, 103, 103),white);
+
+    min-height:100vh;
+    background-size: 100vw;
+    display:flex;
+
+
+}
+
+
+.primaryBtn{
+    background-color:  rgba(175, 173, 173, 0.486);
+    border-radius: 5px;
+    margin-bottom: 0px;
+    padding:5px;
+    border:2px solid black;
+  
+   
+}
+
+.username{
+    background-color: rgba(175, 173, 173, 0.486);
+    margin-top: 20px;
+    padding:4px;
+}
+.password{
+    background-color:   rgba(175, 173, 173, 0.486);
+    margin-top: 20px;
+    padding:4px;
+}
+.container2{
+   
+   z-index:1;
+    background-color:rgba(127, 189, 219, 0.811);
+    border-radius: 10px;
+    width: 30%;
+    height:50%;
+    margin-top:40px ;
+    margin-bottom: 0px;
+    
+   
+
+}
+.backG{
+  
+    border: solid red 10px;
+    background-color:red;
+  
+}
+.crtAcc{
+    font-size: larger;
+    padding:0px;
+    margin-bottom:4px;
+  
+    background-color:rgba(0, 0, 0, 0.811) ;
+    background: none;
+   
+    
+}
+.crtAccLink{
+    text-decoration: none;
+    color:rgb(51,102,204);
+    text-align: center;
+    background: none;
+    
+}
+.gotPass{
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    
+    margin: 0;
+    padding: 0;
+}
+.passText{
+    font-size:larger;
+    color:rgb(51,102,204);
+}
+
+.container1{
+    width:328px;
+
+}
